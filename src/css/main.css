@@ -1,0 +1,9 @@
+/*Fabio Compagnoni 05/03/2021 ver 1.0*/
+
+#gioco
+{
+    width:680px;
+    height:400px;
+    background-image:url('../img/strada.png');
+    background-position:center center;
+}
